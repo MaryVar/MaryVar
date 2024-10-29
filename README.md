@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as a UI/UX Designer<br> 📚 I'm currently learning to be Front-End DEveloper<br> ⚡ In my free time I usually listen to music and browse ui designs.</p>
+<p align="left">🔭 I’m working as a UI/UX Designer<br> 📚 I'm currently learning to be Front-End Developer<br> ⚡ In my free time I usually listen to music and browse ui designs.</p>
 
 ###
 
